@@ -1,0 +1,3 @@
+https://kingston.box.com/shared/static/xmxyz9pv1vpiekgp98rt51gxet41s490.zip celeba.zip
+https://kingston.box.com/shared/static/z1y3uufjzuhwcw93leg9v8uwvsp63cr8.zip cifar10.zip
+https://kingston.box.com/shared/static/wygr8mz7u3m5rfh4o0b0oj18lnl42c9r.zip mnist.zip
